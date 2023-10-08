@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+p {
+    color:black;
+    text-align: left;
+    font-size: larger;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color:brown;
+    text-align: center;
+}
+
+h2 {
+    color:brown;
+    text-align: center;
+}
